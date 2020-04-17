@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 @media screen and (max-width: 1196) {
-  #bear{
+  div #bear{
     position: absolute;
     left: 800px;
   }
