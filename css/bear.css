@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@media not screen and (max-width: 1196) {
+@media screen and (max-width: 1196) {
   #bear{
     position: absolute;
   }
